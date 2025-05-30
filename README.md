@@ -18,7 +18,7 @@ A simple and clean Android Unit Converter app that converts values between **Fee
 
 ## 📸 Screenshot
 
-![App Screenshot](images/unit.jpg)
+<img src="images/unit.jpg" alt="App Screenshot" width="300"/>
 
 ---
 
