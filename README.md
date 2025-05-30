@@ -41,8 +41,10 @@ A simple and clean Android Unit Converter app that converts values between **Fee
 
 4. Enter a value, select the units to convert from and to, and see the result!
 
-📚 Learning Journey
+## 📚 Learning Journey
+
 This project is part of my Android development learning journey. I'm just getting started and looking forward to building more apps!
 
-🙌 Feedback
+## 🙌 Feedback
+
 I'm always open to suggestions and improvements. Feel free to open issues or pull requests!
